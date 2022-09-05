@@ -11,6 +11,7 @@ body {
 .box {
     border: 1px solid black;
     margin: 15px;
+    background-color: grey;
 }
 
 .title {
@@ -27,18 +28,6 @@ body {
     text-align: center;
     font-size: 125%;
     left: calc(100% - 120px);
-}
-
-.box1 {
-    background-color: #A7C3D2;
-}
-
-.box2 {
-    background-color: #DCF288;
-}
-
-.box3 {
-    background-color: #C9AF74;
 }
 
 #color_1 {
